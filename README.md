@@ -16,6 +16,16 @@ Analyzing captured network traffic to detect suspicious activity.
 
 ## Screenshots
 ![Wireshark Capture](wireshark.png)
+
+
+
+
+
+
+
+
+
+
 ![Wireshark Capture](packet.png)
 
 ## Results
